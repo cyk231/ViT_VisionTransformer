@@ -1,2 +1,2 @@
-# ViT_VisionTransformer
+# ViT
 Vision Transformer
